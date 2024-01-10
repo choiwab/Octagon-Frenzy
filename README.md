@@ -8,7 +8,7 @@ Before you jump into the ring, make sure to install Processing to play Octagon F
 
 ## 🕹️ How to Play
 1. **🚀 Start the Game:** Hit 'Play Game' in the main menu.
-2. **👤 Player 1 - Choose Your Fighter:** Select your champion. (Mcgregor, Khabib, Gaethje, Poirier) (The good ol lightweight era 😢)
+2. **👤 Player 1 - Choose Your Fighter:** Select your champion. (Mcgregor, Khabib, Gaethje, Poirier) (Ah! The good ol lightweight era 😢)
 3. **👥 Player 2 - Select Your Warrior:** Time for Player 2 to pick their fighter.
 4. **🥋 Fight Time:** Battle it out in the octagon. Key controls are available in-game and through a handy screenshot guide in the game files.
 5. **🏆 Leaderboard:** Who's the champ? Check out the scores on the leaderboard post-fight.
